@@ -30,7 +30,7 @@ const projects = [
     title: "Project 5",
     subtitle: "Newz API",
     description: "This is a Newz API project that displays the data with fetch, and on search it displays the news headline and image and more information.",
-    link: ""
+    link: "https://news-api-seven-rho.vercel.app/"
   },
   {
     title: "Project 6",
